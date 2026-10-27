@@ -1,0 +1,8 @@
+# macOS sistem dosyası
+.DS_Store
+
+# Log dosyaları
+*.log
+
+# Test için geçici dosya
+gecici.txt
