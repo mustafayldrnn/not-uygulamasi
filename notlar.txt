@@ -11,3 +11,5 @@ git status   - Çalışma dizini ve staging area'nın durumunu gösterir.
 git add      - Değişiklikleri staging area'ya alır.
 git commit   - Staging'deki değişiklikleri mesajla birlikte kalıcı olarak kaydeder.
 git log      - Commit geçmişini listeler.
+git push     - Yerel commitleri uzak repoya (GitHub) gönderir.
+git branch   - Branchleri listeler / yeni branch oluşturur.
