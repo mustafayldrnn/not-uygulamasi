@@ -1,0 +1,6 @@
+=== Hafta 1: Linux Komutları ===
+pwd   - Bulunduğum dizinin tam yolunu gösterir.
+ls    - Dizindeki dosya ve klasörleri listeler (-la ile gizli dosyalar dahil detaylı).
+cd    - Dizin değiştirir (cd .. bir üst dizine çıkar).
+mkdir - Yeni bir klasör oluşturur.
+cat   - Bir dosyanın içeriğini ekrana yazdırır.
