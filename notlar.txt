@@ -4,3 +4,10 @@ ls    - Dizindeki dosya ve klasörleri listeler (-la ile gizli dosyalar dahil de
 cd    - Dizin değiştirir (cd .. bir üst dizine çıkar).
 mkdir - Yeni bir klasör oluşturur.
 cat   - Bir dosyanın içeriğini ekrana yazdırır.
+
+=== Hafta 2: Git Komutları ===
+git init     - Bulunduğum klasörü yeni bir Git reposuna dönüştürür.
+git status   - Çalışma dizini ve staging area'nın durumunu gösterir.
+git add      - Değişiklikleri staging area'ya alır.
+git commit   - Staging'deki değişiklikleri mesajla birlikte kalıcı olarak kaydeder.
+git log      - Commit geçmişini listeler.
